@@ -2,7 +2,13 @@
 
 ## Kits
 
-Students may only use the materials provided in the production of their robots. No other outside struc- tural mechanical or electrical components should be used. All items must be returned to lab in Tutorial 6, except for items marked with a `(⋆)`.
+Students may only use the materials provided in the production of their robots. The **three exceptions** to this rule is that students may supplement their robots with
+
+1. paper clips provided by the lab,
+2. outside adhesive material (specifically glues or tapes), and
+3. paper
+
+No other outside struc- tural mechanical or electrical components should be used. All items must be returned to lab in Tutorial 6, except for items marked with a `(⋆)`.
 
 ### Tools Kit
 
