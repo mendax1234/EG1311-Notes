@@ -12,4 +12,5 @@
 
 ## Final Project
 
+* [Project Materials](final-project/project-materials.md)
 * [Rubrics](final-project/rubrics.md)

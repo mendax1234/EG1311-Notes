@@ -5,8 +5,10 @@
 The car should be put in a cube with a side length of 30cm. only use the material provided in the production of the robots except
 
 1. Paper clips
-2. Outside adhesive material
-3. Paper must carry one 9V battery and 4 AA batteries not interact with the robot after it leaves the starting area not attach anything to the ping-pong ball up to 30s to complete the course
+2. Outside adhesive material (specifically glues or tapes)
+3. Paper
+
+And the car must carry one 9V battery and 4 AA batteries not interact with the robot after it leaves the starting area not attach anything to the ping-pong ball up to 30s to complete the course.
 
 ## Base Point (7 points)
 
