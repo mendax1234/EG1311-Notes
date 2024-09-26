@@ -9,6 +9,8 @@
   * [Motor Physics](arduino/week-2-physics-and-programming/motor-physics.md)
   * [Digital Computers](arduino/week-2-physics-and-programming/digital-computers.md)
   * [Program Flow](arduino/week-2-physics-and-programming/program-flow.md)
+* [Week 3 (Arduino Programming)](arduino/week-3-arduino-programming/README.md)
+  * [Arduino Basics](arduino/week-3-arduino-programming/arduino-basics.md)
 
 ## Final Project
 
