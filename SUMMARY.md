@@ -11,6 +11,9 @@
   * [Program Flow](arduino/week-2-physics-and-programming/program-flow.md)
 * [Week 3 (Arduino Programming)](arduino/week-3-arduino-programming/README.md)
   * [Arduino Basics](arduino/week-3-arduino-programming/arduino-basics.md)
+  * [Serial Communication](arduino/week-3-arduino-programming/serial-communication.md)
+  * [Driver & Sensors](arduino/week-3-arduino-programming/driver-and-sensors.md)
+  * [PWM & Servo](arduino/week-3-arduino-programming/pwm-and-servo.md)
 
 ## Final Project
 
