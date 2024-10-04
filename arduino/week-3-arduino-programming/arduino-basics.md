@@ -31,7 +31,7 @@ The **5V** pin can either be an input or an output depending on how you're power
 | Port Name | Purpose     |
 | --------- | ----------- |
 | Pins 0-1  | Serial CCOM |
-| Pin 1-3   | LED pin     |
+| Pin 13    | LED pin     |
 | Pin (\~)  | PWM         |
 
 ## API
