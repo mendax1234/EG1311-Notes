@@ -15,6 +15,14 @@
   * [Driver & Sensors](arduino/week-3-arduino-programming/driver-and-sensors.md)
   * [PWM & Servo](arduino/week-3-arduino-programming/pwm-and-servo.md)
 
+## CAD
+
+* [Week 4 (CAD Basics)](cad/week-4-cad-basics/README.md)
+  * [CAD Intro](cad/week-4-cad-basics/cad-intro.md)
+  * [Part Modeling I](cad/week-4-cad-basics/part-modeling-i.md)
+  * [Part Modeling II](cad/week-4-cad-basics/part-modeling-ii.md)
+  * [Laser Cutting DXF](cad/week-4-cad-basics/laser-cutting-dxf.md)
+
 ## Final Project
 
 * [Project Materials](final-project/project-materials.md)
