@@ -19,3 +19,8 @@ The table below summarises different **constraints** and their use in 2-D plane 
 | Symmetric           |      <img src="../../.gitbook/assets/cad-symmetric-constraint.png" alt="" data-size="original">      | Constrains two or more objects so that they are symmetrical (identical to each other in relation to a common axis)                   |
 | Curvature           |      <img src="../../.gitbook/assets/cad-curvature-constraint.png" alt="" data-size="original">      | The curvature constraint creates a smooth, continuous curve between two or more objects in a sketch                                  |
 
+## Extrude
+
+There is a fancy function in Extrude called **taple angel**, which can control inclined angle from the base to the extrusion. As shown below,
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Extrusion with angle</p></figcaption></figure>

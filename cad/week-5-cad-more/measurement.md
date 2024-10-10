@@ -29,3 +29,18 @@ This function takes in the input of an **object** and ths coordinates are stored
 Usually, you can get coordinates of the center of mass by using [#volume](measurement.md#volume "mention") method. This method is to show the **center of mass** visually.
 {% endhint %}
 
+## Questions
+
+In the figure below, the distance from the center of mass to the rotational axis (x-axis) is given by
+
+$$
+d=\sqrt{y^2+z^2}
+$$
+
+<figure><img src="../../.gitbook/assets/cad-calculation-practice.png" alt=""><figcaption><p>Center of Mass Calculation</p></figcaption></figure>
+
+Which is around 0.186 mm.
+
+## Tips
+
+1. What's the difference between the center of mass and center of volumn?
