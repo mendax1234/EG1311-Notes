@@ -22,10 +22,10 @@
   * [Part Modeling I](cad/week-4-cad-basics/part-modeling-i.md)
   * [Part Modeling II](cad/week-4-cad-basics/part-modeling-ii.md)
   * [Laser Cutting DXF](cad/week-4-cad-basics/laser-cutting-dxf.md)
-* [Week 5 (CAD More)](cad/week-5-cad-more/README.md)
-  * [Assemblies](cad/week-5-cad-more/assemblies.md)
-  * [Animation, Appearance & Drawing](cad/week-5-cad-more/animation-appearance-and-drawing.md)
-  * [Measurement](cad/week-5-cad-more/measurement.md)
+* [Week 5 (CAD Advanced)](cad/week-5-cad-advanced/README.md)
+  * [Assemblies](cad/week-5-cad-advanced/assemblies.md)
+  * [Animation, Appearance & Drawing](cad/week-5-cad-advanced/animation-appearance-and-drawing.md)
+  * [Measurement](cad/week-5-cad-advanced/measurement.md)
 
 ## Final Project
 

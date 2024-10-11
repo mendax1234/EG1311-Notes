@@ -41,6 +41,12 @@ $$
 
 Which is around 0.186 mm.
 
+{% hint style="info" %}
+Another point we can think about is that we can move along the rotational axis (x-axis), so the x-coordinate may change, so we need to calculate using the y-coordinate and z-coordinate.
+{% endhint %}
+
+
+
 ## Tips
 
-1. What's the difference between the center of mass and center of volumn?
+1. What's the difference between the center of mass and center of volumn? **If your part has uniform density, then "center of mass" is the same as "center of volume"**. **Otherwise, thay may not be the same. But in EG1311, since we are not taught about how to change the density, so in this course, "center of mass" is the same as "center of volume" and we use "center of volume" in our question to make it more precise. But we still can use the "center of mass" tool in fusion 360 to solve this kind of question.**
