@@ -31,7 +31,7 @@
 Note that `int` type is **signed** in C!!! So, if we try to assign `32768` to an `int` variable, the variable will store `-32768` instead.
 {% endhint %}
 
-In C, **signed type** using 2's complement form to store the numbers. So, even if two types use the same number of bits, the number range they represent are different**.**
+In C, **signed type** using 2's complement form to store the numbers. So, even if two types use the same number of bits, the number range they represent are differen&#x74;**.**
 
 <figure><img src="../../.gitbook/assets/unsigned-vs-signed.png" alt=""><figcaption><p>unsigned vs signed</p></figcaption></figure>
 

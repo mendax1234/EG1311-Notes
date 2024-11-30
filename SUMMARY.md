@@ -31,3 +31,4 @@
 
 * [Project Materials](final-project/project-materials.md)
 * [Rubrics](final-project/rubrics.md)
+* [Our Project](final-project/our-project.md)
