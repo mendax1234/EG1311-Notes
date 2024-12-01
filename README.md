@@ -33,6 +33,12 @@ The core of this course lies in applying what you've learned to real-world scena
 * **Tutorial:** My tutorial is also taught by Prof. Jason. In my opinion, for this course, the tutorial tutor doesn’t have as much of an impact (at least that’s how I feel so far :joy:).
 * **Quiz:** The quiz is the main differentiator in this course, but it’s open-book (You know :joy\_cat:). The last question of the CAD quiz, in particular, is quite tricky. It requires some spatial reasoning and techniques that weren’t explicitly covered in the lectures. (However, I’ve included an important technique in this note [week-5-cad-advanced](cad/week-5-cad-advanced/ "mention") that might help.)
 
+#### Course Book
+
+**Reference Book**: There is no textbook for this course. Even the Prof Jason didn't provide one :joy:. But for the physics knowledge, like the working principle of the electric motors, if you want to gain a deeper understanding, a reference book is still needed. (However, the quiz problems regarding the physics are quite straightforward). The reference book I use is: _Physics for Scientists & Engineers_ by Douglas C. Giancoli.
+
+<figure><img src=".gitbook/assets/EG1311_Referencebook.jpg" alt=""><figcaption><p>EG1311 Reference Book</p></figcaption></figure>
+
 ## Learning Experience
 
 I feel incredibly fortunate to have had such amazing teammates and a wonderful professor in this course! I’ll always remember the excitement during the test when our robot successfully completed all the tasks, and the fun we had trying to cut weight to reach the lighter point (even though we didn’t make it, I genuinely enjoyed the process of striving for perfection!). Thank you all for making this course so enjoyable and rewarding for me!
